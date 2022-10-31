@@ -49,7 +49,7 @@ function SignUpPage() {
             />
           </div>
           <div className="d-grid-gap-2-mt-3">
-            <button type="submit" className="signup-btn">
+            <button type="submit" className="signup-signin-btn">
               SIGN UP
             </button>
           </div>

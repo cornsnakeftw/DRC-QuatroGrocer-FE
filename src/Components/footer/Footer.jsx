@@ -1,10 +1,10 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-// import {
-//   FaFacebookSquare,
-//   FaInstagramSquare,
-//   FaTwitterSquare,
-// } from "react-icons/fa";
+import {
+  FaFacebookSquare,
+  FaInstagramSquare,
+  FaTwitterSquare,
+} from "react-icons/fa";
 import "../footer/footer.css";
 
 const Footer = () => {
@@ -66,17 +66,17 @@ const Footer = () => {
           <ul>
             <li>
               <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                {/* <FaInstagramSquare /> */}
+                <FaInstagramSquare />
               </a>
             </li>
             <li>
               <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                {/* <FaFacebookSquare /> */}
+                <FaFacebookSquare />
               </a>
             </li>
             <li>
               <a href="https://www.youtube.com/watch?v=bMknfKXIFA8">
-                {/* <FaTwitterSquare /> */}
+                <FaTwitterSquare />
               </a>
             </li>
           </ul>
