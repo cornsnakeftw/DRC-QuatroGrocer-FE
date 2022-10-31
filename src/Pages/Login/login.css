@@ -1,0 +1,17 @@
+p {
+  text-align: justify;
+}
+
+.sign-in-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  text-align: left;
+}
+
+.sign-in-container > .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
